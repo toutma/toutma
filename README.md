@@ -1,4 +1,4 @@
-# Hi there
-My name is Fabien Ruis. I currently live in Paris. I am a full-stack developer working mainly with the Symfony PHP framework and the WordPress CMS.
+# Hello world!
+Je m'appelle Fabien et je vis en région parisienne. I suis développeur Full-Stack. Je code avec ❤️ avec framework Symfony et le CMS WordPress boosté par Laravel.
 
-## Active projects and websites
+## Articles
